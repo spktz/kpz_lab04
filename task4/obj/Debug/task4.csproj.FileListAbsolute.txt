@@ -1,0 +1,7 @@
+C:\Users\roman\source\repos\kpz_lab04\task4\bin\Debug\task4.exe.config
+C:\Users\roman\source\repos\kpz_lab04\task4\bin\Debug\task4.exe
+C:\Users\roman\source\repos\kpz_lab04\task4\bin\Debug\task4.pdb
+C:\Users\roman\source\repos\kpz_lab04\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\kpz_lab04\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\kpz_lab04\task4\obj\Debug\task4.exe
+C:\Users\roman\source\repos\kpz_lab04\task4\obj\Debug\task4.pdb
