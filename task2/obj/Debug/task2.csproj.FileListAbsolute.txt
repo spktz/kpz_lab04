@@ -1,0 +1,7 @@
+C:\Users\roman\source\repos\kpz_lab04\task2\bin\Debug\task2.exe.config
+C:\Users\roman\source\repos\kpz_lab04\task2\bin\Debug\task2.exe
+C:\Users\roman\source\repos\kpz_lab04\task2\bin\Debug\task2.pdb
+C:\Users\roman\source\repos\kpz_lab04\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\kpz_lab04\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\kpz_lab04\task2\obj\Debug\task2.exe
+C:\Users\roman\source\repos\kpz_lab04\task2\obj\Debug\task2.pdb
